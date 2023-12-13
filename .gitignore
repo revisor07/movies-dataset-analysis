@@ -1,3 +1,4 @@
 charts
 data
 .venv
+.DS_Store
